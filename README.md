@@ -55,21 +55,47 @@ Here you can create a profile and log into the app with your password and email.
 ### ✅ Add/delete/modify (CRUD) an income to your monthly incomes.
 You must be able to create an income and to add it to the list of income linked to the profile. This one can be modified or deleted.
 
-### 🤛🏽 See the total of income that you have mounthly or per year
+### 🤛🏽 See the total of incomes that you have monthly or per year
 You should be able to consult the total of incomes that you have on your profile.
 
 ### Naviguate inside the app via a menu
 You can create a menu to naviguate between several tabs of the app.
 
+### You are free on the design
+Don't waste too much time on it, we want something that works in terms of features. We are mostly evaluating the code.
+
 ## Code Evaluation
 
-
+The points that you will read here concerns the reviewing of your project.
 
 ### Mobile First
 The app must be thinking in a **Mobile First** way. CSS mut be responsive ! You can use a library UI like Bootstrap or Bulma.
 
-### You are free on the design
-Don't waste too much time on it, we want something that works in terms of features. We are mostly evaluating the code.
+### Free on the technology you choose
 
-You will have to create a tool called **SmartUp**. A smart, small, powerful little application that can handle your incomes ! The goal is to create the app from 0.
-You will have to create a tool called **SmartUp**. A smart, small, powerful little application that can handle your incomes ! The goal is to create the app from 0.
+You are free to use any tool, framework, library you want, however be sure to use it well ! We will review your code and also your productivity.
+
+- Using GIT is a PLUS
+- Using DOCKER is a PLUS
+
+### Deploy it on Heroku 🚨
+
+You can deploy your app on [Heroku](https://www.heroku.com/). So we can directly see it online.
+
+### You MUST make a nice documentation
+
+We will launch your app is order to see if it works or no. The documentation must be clear and organised like below:
+
+- Create a README.md inside the **project** folder.
+- Write in it, installation of the project
+- How to launch the project
+
+⚠️ If the project can be launched, you will unfortunatly fail this challenge. ⚠️
+
+## Ok... Now are you ready ? Open your IDE, and let's go ;)
+
+Good luck for the Studio challenge ! Once you are done send your work in a .zip file: **oxynum-project-yourname.zip** ! We will review it and sending you feedbacks !
+
+Thanks, and again, good luck !
+
+##### The Oxynum Studio Team
