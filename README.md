@@ -46,3 +46,30 @@ Firebase
 Now the folder is ready to be delivered once you finish the project 😎
 
 ## Get to know the challenge.
+
+You will have to create a tool called **SmartUp**. A smart, small, powerful little application that can handle your incomes ! Some functionnalities are viral for the app, choose the one you want to implement.
+
+### 👌🏻Create a profile, with email and password
+Here you can create a profile and log into the app with your password and email. You can use a service to log in or fake a login inside your app. The app must screen the user name once logged.
+
+### ✅ Add/delete/modify (CRUD) an income to your monthly incomes.
+You must be able to create an income and to add it to the list of income linked to the profile. This one can be modified or deleted.
+
+### 🤛🏽 See the total of income that you have mounthly or per year
+You should be able to consult the total of incomes that you have on your profile.
+
+### Naviguate inside the app via a menu
+You can create a menu to naviguate between several tabs of the app.
+
+## Code Evaluation
+
+
+
+### Mobile First
+The app must be thinking in a **Mobile First** way. CSS mut be responsive ! You can use a library UI like Bootstrap or Bulma.
+
+### You are free on the design
+Don't waste too much time on it, we want something that works in terms of features. We are mostly evaluating the code.
+
+You will have to create a tool called **SmartUp**. A smart, small, powerful little application that can handle your incomes ! The goal is to create the app from 0.
+You will have to create a tool called **SmartUp**. A smart, small, powerful little application that can handle your incomes ! The goal is to create the app from 0.
