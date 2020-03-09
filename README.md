@@ -78,9 +78,9 @@ You are free to use any tool, framework, library you want, however be sure to us
 - Using GIT is a PLUS
 - Using DOCKER is a PLUS
 
-### Deploy it on Heroku 🚨
+### Deploy it on Surge 🚨
 
-You can deploy your app on [Heroku](https://www.heroku.com/). So we can directly see it online.
+You can deploy your app on [Surge](https://surge.sh/). So we can directly see it online.
 
 ### You MUST make a nice documentation
 
