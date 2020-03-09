@@ -6,7 +6,7 @@ If you are consulting this file, it's because you met someone from our team ❤�
 
 The purpose in this challenge is to work directly on a little project. So you will start from nothing, with your best IDE, and will put online a beautiful and awesome application. 
 
-You will have to chose **3 topics** between the list below. Chose topics in which you are the most comfortable! The goal is to show your skills in each of the topic you will tackle.
+You will have to choose **3 topics** from the list below. Chose topics in which you are the most comfortable! The goal is to show your skills in each of the topic you will tackle.
 
 ## Topics list
 
@@ -18,8 +18,8 @@ So now you need to choose 3 topics inside this list.
 - Docker
 - Back-end (PHP, Ruby, Python, C#, JAVA, NodeJS ... ?)
 - UI/UX
-- Databases SQL
-- Databases NoSQL
+- Relational databases
+- NoSQL Databases
 - AWS
 - Firebase
 - Architecture
@@ -30,7 +30,7 @@ So now you need to choose 3 topics inside this list.
 
 Whether you're on mac, windows, linux... 
 
-- 1️⃣ Create a folder in which you will start to work, and name it **oxynum-project-yourname**. Know that this folder will be send later to the Team to be reviewed in **.zip** file!
+- 1️⃣ Create a folder in which you will start to work, and name it **oxynum-project-yourname**. Know that this folder will be sent to the Team later to be reviewed in **.zip** file!
 - 2️⃣ Create a `skills.txt` file inside this folder and place the topic you chosed:
 
 ### Example: *skills.txt*
@@ -47,19 +47,19 @@ Now the folder is ready to be delivered once you finish the project 😎
 
 ## Get to know the challenge.
 
-You will have to create a tool called **SmartUp**. A smart, small, powerful little application that can handle your incomes ! Some functionnalities are viral for the app, choose the one you want to implement.
+You will have to create a tool called **SmartUp**. A smart, small, powerful little application that can help you handle your incomes ! Some functionnalities are viral for the app, choose the one you want to implement.
 
 ### 👌🏻Create a profile, with email and password
-Here you can create a profile and log into the app with your password and email. You can use a service to log in or fake a login inside your app. The app must screen the user name once logged.
+Here you can create a profile and log into the app with your password and email. You can use a service to log in or fake a login inside your app. The app must display the user name once logged.
 
 ### ✅ Add/delete/modify (CRUD) an income to your monthly incomes.
-You must be able to create an income and to add it to the list of income linked to the profile. This one can be modified or deleted.
+You must be able to create an income and to add it to the list of incomes linked to the profile. An income can be modified or deleted.
 
-### 🤛🏽 See the total of incomes that you have monthly or per year
-You should be able to consult the total of incomes that you have on your profile.
+### 🤛🏽 See the total amount of incomes that you earned monthly or yearly
+You should be able to consult the total amount of incomes that you earned on your profile.
 
-### Naviguate inside the app via a menu
-You can create a menu to naviguate between several tabs of the app.
+### Navigate inside the app via a menu
+You can create a menu to navigate between several tabs of the app.
 
 ### You are free on the design
 Don't waste too much time on it, we want something that works in terms of features. We are mostly evaluating the code.
@@ -69,7 +69,7 @@ Don't waste too much time on it, we want something that works in terms of featur
 The points that you will read here concerns the reviewing of your project.
 
 ### Mobile First
-The app must be thinking in a **Mobile First** way. CSS mut be responsive ! You can use a library UI like Bootstrap or Bulma.
+The app must be thought in a **Mobile First** way (not Mobile Only!). CSS mut be responsive ! You can use a library UI like Bootstrap or Bulma.
 
 ### Free on the technology you choose
 
@@ -90,12 +90,16 @@ We will launch your app is order to see if it works or no. The documentation mus
 - Write in it, installation of the project
 - How to launch the project
 
-⚠️ If the project can be launched, you will unfortunatly fail this challenge. ⚠️
+⚠️ If the project cannot be launched, you will unfortunately fail this challenge. ⚠️
 
 ## Ok... Now are you ready ? Open your IDE, and let's go ;)
 
 Good luck for the Studio challenge ! Once you are done send your work in a .zip file: **oxynum-project-yourname.zip** ! We will review it and sending you feedbacks !
 
 Thanks, and again, good luck !
+
+## Last but not least
+
+If you have any remaining questions prior to starting to code, do ask them, no question is stupid, and it will be too late once you submit your project.
 
 ##### The Oxynum Studio Team
