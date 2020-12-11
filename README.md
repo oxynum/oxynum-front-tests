@@ -94,7 +94,7 @@ We will launch your app is order to see if it works or no. The documentation mus
 
 ## Ok... Now are you ready ? Open your IDE, and let's go ;)
 
-Good luck for the Studio challenge ! Once you are done send your work in a .zip file: **oxynum-project-yourname.zip** ! We will review it and sending you feedbacks !
+Good luck for the Studio challenge ! Once you are done send your work in a .zip file: **oxynum-project-yourname.zip** ! Or simply put you rwork on YOUR github and send us the link. We will review it and sending you feedbacks !
 
 Thanks, and again, good luck !
 
