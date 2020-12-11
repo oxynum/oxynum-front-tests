@@ -1,4 +1,4 @@
-# Oxynum Studio - Tests 🏆
+# Oxynum Studio - Project Test 🏆
 ##### Hey you ! 
 If you are consulting this file, it's because you met someone from our team ❤️ and you are ready to take on the challenge to be a new team member. So... How about we get started ?
 
